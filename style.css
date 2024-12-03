@@ -1,0 +1,22 @@
+body
+        {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        
+        a
+        {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        
+        button
+        {
+            background-color: #333333;
+            color: #ffffff;
+        }
+        
+        button:hover
+        {
+            background-color: #F95738;
+        }
